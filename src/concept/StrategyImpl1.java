@@ -1,3 +1,5 @@
+package concept;
+
 public class StrategyImpl1 implements IStrategy {
     @Override
     public void appliquer() {

@@ -1,3 +1,4 @@
+package concept;
 
 public class Context {
     private IStrategy strategie = new StrategyImpl1();
